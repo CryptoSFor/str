@@ -1,3 +1,4 @@
+//Package implements a set of several functions for working with strings
 package str
 
 //NumberOfCharacters counts the number of characters in a string and returns it
