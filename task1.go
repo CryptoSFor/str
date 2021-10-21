@@ -1,4 +1,4 @@
-package task1
+package str
 
 func NumberOfCharacters(s string) int {
 	c := 0
