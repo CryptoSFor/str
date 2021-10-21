@@ -1,0 +1,1 @@
+This project contains two functions "NumberOfCharacters" and "ReverseString", the first you can use to count characters in a string, the second to reverse the string. Also, both functions were covered with unit tests.
