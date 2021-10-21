@@ -1,4 +1,4 @@
-package task1
+package str
 
 func ReverseString(s string) string {
 	r := []rune(s)
