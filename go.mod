@@ -1,3 +1,3 @@
-module github.com/CryptoSFor/task1
+module github.com/CryptoSFor/str
 
 go 1.16
